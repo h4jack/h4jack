@@ -2,10 +2,6 @@
 
 ###
 
-<img align="left" height="224" src="https://avatars.githubusercontent.com/u/130727297"  />
-
-###
-
 <h3 align="left">Hi, I’m Susanta — a Computer Science student passionate about technology. I love learning new skills, solving problems through code, and exploring how tech can make life better.</h3>
 
 ###
